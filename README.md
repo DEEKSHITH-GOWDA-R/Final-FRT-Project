@@ -1,5 +1,6 @@
 ## Final-FRT-Project
 # The final FRT Project  --FASHION TRENDZ-- 
+## Welcome to our fashion website, your ultimate destination for all things stylish and trendy! We are passionate about fashion and dedicated to providing you with an exceptional online fashion experience.
 
 ## My website link   https://staticfrt.z19.web.core.windows.net/
 
