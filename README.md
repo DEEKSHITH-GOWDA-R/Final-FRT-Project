@@ -2,9 +2,20 @@
 # The final FRT Project  --FASHION TRENDZ-- 
 ## Welcome to our fashion website, your ultimate destination for all things stylish and trendy! We are passionate about fashion and dedicated to providing you with an exceptional online fashion experience.
 
-## My website link   https://staticfrt.z19.web.core.windows.net/
+## My project website link   https://staticfrt.z19.web.core.windows.net/
 
-## static web app link   https://proud-hill-05f83f310.3.azurestaticapps.net/
+## Azure Technologies Used are:
+### 1> Storage Accounts 
+It containes the URL of my website for the data stored in it.
+
+![Screenshot (80)](https://github.com/DEEKSHITH-GOWDA-R/Final-FRT-Project/assets/125720822/aa30822c-6326-4529-a002-d3434f207b6b)
+
+### 2> Containers
+This technology is used to provide isolated space for my project code.
+
+![Screenshot (81)](https://github.com/DEEKSHITH-GOWDA-R/Final-FRT-Project/assets/125720822/495d6d42-de57-43e2-b7c7-ea7a9fdef9ab)
+
+![Screenshot (82)](https://github.com/DEEKSHITH-GOWDA-R/Final-FRT-Project/assets/125720822/14b97efb-1623-4f7c-a082-dbd50b9f11d4)
 
 # Screenshot
 ## Home
